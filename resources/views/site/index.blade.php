@@ -46,6 +46,18 @@
                                 <a href="/services/all" class="button btn btn-lg btn-red radius5 btn-margin-right">Check All Services</a>
                                 <a href="#quote" class="button btn btn-lg btn-outline-dark radius5">Get Started Now</a>
                             </div>
+                            <div class="search">
+                                <img src="../../assets/img/icons/common/search-bar.svg" class="search-icon">
+                                <div class="search-result-container">
+                                    <input type="text" class="search-field" name="search-text" placeholder="Search through all our services">
+                                    <!-- Inject search results with structure like this -->
+                                    <ul class="search-results">
+                                        <!-- <li><a href="">Test 1</a></li>
+                                        <li><a href="">Test 2</a></li>
+                                        <li><a href="">Test 3</a></li> -->
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                         <div class="home-bottom">
                             <div class="container-fluid">

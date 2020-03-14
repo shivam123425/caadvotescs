@@ -22618,7 +22618,7 @@
                         }
     
                         .has-children>a {
-                            padding-right: 24px;
+                            padding-right: 20px;
                             /*font-family: 'Montserrat', sans-serif;*/
                             font-size: 14px;
                             font-weight: 600;

@@ -1,1 +1,0 @@
-{!! $quote !!} {{$email[0]->email}}

@@ -1,1 +1,0 @@
-<h1>Your Request have Succesfully went to the Admins, We will contact you as soon as Possible in order to Verify your Associate Account.</h1>

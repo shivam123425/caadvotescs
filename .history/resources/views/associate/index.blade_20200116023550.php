@@ -1,1 +1,0 @@
-<h1>Welcome user {{ auth()->associates()->name }}</h1>
